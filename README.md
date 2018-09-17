@@ -13,9 +13,7 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 - Case Study To To List
  - [] My first objective is...
  - [] Work on Layout
-- [] Use Fortnite Tracker to show Fortnite win Stats
-- [] Work on Fortnite experience
-- [] Find Fortnite Image
+ - [] Fortnite Game Experience
 
 ## Background Nationalty
 - [] Represent Middle Eastern
@@ -23,14 +21,14 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 - [] Favorite Nationalty Dish/Food
 - [] Favorite Food (Image)
 
-##Sports-Other
+##Sports Other
 - [] Soccer
 - [] Basketball
 - [] Image fo both sports
 - [] Importance of Computer/Games
 - [] Favorite Main Food
 
-##Title-Gif
+##Title Gif
 - [] Gif of gaming
 - [] Video of Cultural Food?
 - [] Who am I title?
