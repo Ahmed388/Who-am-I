@@ -16,18 +16,21 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 - [] Use Fortnite Tracker to show Fortnite win Stats
 - [] Work on Fortnite experience
 - [] Find Fortnite Image
-## BackGround Nationalty
+
+## Background Nationalty
 - [] Represent Middle Eastern
 - [] Representation from Iraq
 - [] Favorite Nationalty Dish/Food
 - [] Favorite Food (Image)
-##Sports/Other
+
+##Sports-Other
 - [] Soccer
 - [] Basketball
 - [] Image fo both sports
 - [] Importance of Computer/Games
-- [] Favorite Main FOod
-##Title/Gif
+- [] Favorite Main Food
+
+##Title-Gif
 - [] Gif of gaming
 - [] Video of Cultural Food?
 - [] Who am I title?
