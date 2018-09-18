@@ -24,7 +24,7 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 ##Sports Other
 - [] Soccer
 - [] Basketball
-- [] Image fo both sports
+- [] Image for both sports
 - [] Importance of Computer/Games
 - [] Favorite Main Food
 
