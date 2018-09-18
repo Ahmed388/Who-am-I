@@ -17,14 +17,14 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 
 ## Background Nationalty
 - [] Represent Middle Eastern
-- [] Representation from Iraq
-- [] Favorite Nationalty Dish/Food
-- [] Favorite Food (Image)
+ - [] Representation from Iraq
+  - [] Favorite Nationalty Dish/Food
+   - [] Favorite Food (Image)
 
 ##Sports Other
 - [] Soccer
 - [] Basketball
-- [] Image for both sports
+ - [] Image for both sports
 - [] Importance of Computer/Games
 - [] Favorite Main Food
 
