@@ -1,9 +1,4 @@
 # Who-am-I
-Who am I?
-
-What do I like to do, I've been gaming for years on my computer and always exploring new stuff, as someone who has a Middle Eastern background, there are a lot of interesting things about me!
-
-# Who-am-I
 Who am I? What do I like to do, I've been gaming for years on my computer and always exploring new stuff, as someone who has a Middle Eastern background, there are a lot of interesting things about me!
 
 ## To Do List
@@ -18,17 +13,17 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 ## Background Nationalty
 - [] Represent Middle Eastern
  - [] Representation from Iraq
-  - [] Favorite Nationalty Dish/Food
-   - [] Favorite Food (Image)
+- [] Favorite Nationalty Dish/Food
+ - [] Favorite Food (Image)
 
-##Sports Other
+##sports/other
 - [] Soccer
 - [] Basketball
  - [] Image for both sports
 - [] Importance of Computer/Games
 - [] Favorite Main Food
 
-##Title Gif
+##title/Gif
 - [] Gif of gaming
 - [] Video of Cultural Food?
 - [] Who am I title?
