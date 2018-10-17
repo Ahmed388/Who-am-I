@@ -13,8 +13,8 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
   - [x] OMIT
 
 ## Background Nationalty
-- [] Represent Middle Eastern
- - [] Representation from Iraq
+- [x] Represent Middle Eastern
+ - [X] Representation from Iraq - FLAG
 - [] Favorite Nationalty Dish/Food
  - [] Favorite Food (Image)
  - [] Video of Arabic Alphabet
