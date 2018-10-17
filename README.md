@@ -9,8 +9,8 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
  - [] My first objective is...
  - [] Work on Layout
  - [] Fortnite Game Experience
-  - [] Can possibly add more detail (Save The World/Battle Royale
-  - [] Power Level 50
+  - [x] OMIT
+  - [x] OMIT
 
 ## Background Nationalty
 - [] Represent Middle Eastern
@@ -18,19 +18,19 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 - [] Favorite Nationalty Dish/Food
  - [] Favorite Food (Image)
  - [] Video of Arabic Alphabet
-- [] Image of flag
+- [x] Image of flag
 
 ## sports/other
-- [] Soccer
-- [] Basketball
- - [] Image for both sports
+- [x] Soccer
+- [x] Basketball
+ - [x] Image for both sports
 - [] Importance of Computer/Games
 - [] Favorite Main Food
 
 ## title/Gif
 - [] Gif of gaming
 - [] Video of Cultural Food?
-- [] Who am I title?
-- [] Ahmed Mahdi Alrahbawi (WRITTEN IN ARABIC)
- - [] احمد مهدي الرحبوي
+- [x] Who am I title?
+- [x] Ahmed Mahdi Alrahbawi (WRITTEN IN ARABIC)
+ - [x] احمد مهدي الرحبوي
 - [] Extra Image slot
