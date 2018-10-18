@@ -8,7 +8,7 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 - Case Study To To List
  - [] My first objective is...
  - [] Work on Layout
- - [] Fortnite Game Experience
+ - [x] Fortnite Game Experience
   - [x] OMIT
   - [x] OMIT
 
@@ -16,8 +16,8 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 - [x] Represent Middle Eastern
  - [X] Representation from Iraq - FLAG
 - [] Favorite Nationalty Dish/Food
- - [] Favorite Food (Image)
- - [] Video of Arabic Alphabet
+ - [x] Favorite Food (Image)
+ - [x] Video of Arabic Alphabet
 - [x] Image of flag
 
 ## sports/other
@@ -28,8 +28,8 @@ Who am I? What do I like to do, I've been gaming for years on my computer and al
 - [] Favorite Main Food
 
 ## title/Gif
-- [] Gif of gaming
-- [] Video of Cultural Food?
+- [x] Gif of gaming
+- [x] Picture of Cultural Food?
 - [x] Who am I title?
 - [x] Ahmed Mahdi Alrahbawi (WRITTEN IN ARABIC)
  - [x] احمد مهدي الرحبوي
